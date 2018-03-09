@@ -1,0 +1,17 @@
+Name:           ubuntu2
+State:          RUNNING
+PID:            29747
+IP:             10.0.4.69
+CPU use:        0.69 seconds
+BlkIO use:      8.00 KiB
+Memory use:     18.59 MiB
+KMem use:       4.49 MiB
+Link:           veth5UJADO
+ TX bytes:      1.68 KiB
+ RX bytes:      3.07 KiB
+ Total bytes:   4.75 KiB
+Link:           vethMPJ9A7
+ TX bytes:      998 bytes
+ RX bytes:      3.03 KiB
+ Total bytes:   4.00 KiB
+
